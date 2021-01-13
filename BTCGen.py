@@ -1,4 +1,4 @@
-from telethon import TelegramClient, events, sync
+from telephon import TelegramClient, events, sync
 from random import choice
 import time
 
